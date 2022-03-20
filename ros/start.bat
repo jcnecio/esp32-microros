@@ -1,0 +1,1 @@
+docker run -it --net=host -v D:\Prog\ros\src:/microros_ws/src --privileged rosrunner bash
